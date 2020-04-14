@@ -1,0 +1,45 @@
+{
+    "1121": {
+        "name": {
+            "first_name": "Billie",
+            "last_name": "Muzzy"
+        },
+        "hours": 12
+    },
+
+    "0408": {
+        "name": {
+            "first_name": "Atlas",
+            "last_name": "Muzzy"
+        },
+        "hours": 10
+    },
+    "0818": {
+        "name": {
+            "first_name": "Gizmo",
+            "last_name": "Muzzy"
+        },
+        "hours": 5
+    },
+    "0826": {
+        "name": {
+            "first_name": "Ben",
+            "last_name": "Muzzy"
+        },
+        "hours": 32
+    },
+    "0813": {
+        "name": {
+            "first_name": "Joel",
+            "last_name": "Myhre"
+        },
+        "hours": 12
+    },
+    "0704": {
+        "name": {
+            "first_name": "Tyler",
+            "last_name": "Anthony"
+        },
+        "hours": 7
+    }
+}
